@@ -59,12 +59,12 @@ body{
     height: var(--h);
     border-radius: 8px;
 }
-em{
+/* em{
     font-family:'Times New Roman', Times, serif;
     text-align: center;
     padding: 60px;
     padding-top: 20vh;
-} 
+}  */
 .six{
     transform:rotate(180deg);
 }
